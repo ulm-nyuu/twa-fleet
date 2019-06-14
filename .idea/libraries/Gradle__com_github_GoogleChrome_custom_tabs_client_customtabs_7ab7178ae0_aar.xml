@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.GoogleChrome.custom-tabs-client:customtabs:7ab7178ae0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/106faa0a1ed418f519453903f7038d3e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/106faa0a1ed418f519453903f7038d3e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/106faa0a1ed418f519453903f7038d3e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
